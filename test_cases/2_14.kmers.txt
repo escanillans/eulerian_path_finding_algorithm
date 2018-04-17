@@ -1,0 +1,13 @@
+AC
+AG
+AT
+CA
+CC
+CT
+GA
+GG
+GT
+TA
+TC
+TG
+TT
